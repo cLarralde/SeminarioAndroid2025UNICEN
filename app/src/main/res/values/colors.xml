@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowWhite">#F5F5F0</color>
+    <color name="burdeos">#662222</color>
+    <color name="reddishOrange">#B77466</color>
+    <color name="paleYellow">#FFE1AF</color>
+    <color name="peachPink">#E2B59A</color>
+    <color name="lightBrown">#8A7C70</color>
+    <color name="darkYellow">#FF9D00</color>
+    <color name="darkChocolate">#432323</color>
+    <color name="wine">#8C1007</color>
+
+</resources>

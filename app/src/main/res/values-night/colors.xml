@@ -1,0 +1,22 @@
+<resources>
+    <!-- Colores base -->
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF121212</color>
+    <color name="yellowWhite">#3d3d37</color>
+
+    <!-- Tonos burdeos / rojizos -->
+    <color name="burdeos">#4A1818</color> <!-- burdeos más profundo -->
+    <color name="reddishOrange">#8A5446</color> <!-- rojo apagado -->
+    <color name="wine">#5C0B03</color> <!-- vino oscuro -->
+
+    <!-- Tonos amarillos / cálidos -->
+    <color name="paleYellow">#d8ca4e</color> <!-- beige cálido -->
+    <color name="darkYellow">#CC7E00</color> <!-- mostaza oscuro -->
+
+    <!-- Marrones -->
+    <color name="lightBrown">#302310</color> <!-- marrón apagado -->
+    <color name="darkChocolate">#2B1510</color> <!-- chocolate muy oscuro -->
+
+    <!-- Rosados / durazno -->
+    <color name="peachPink">#B47C62</color> <!-- tono medio, cálido pero sobrio -->
+</resources>

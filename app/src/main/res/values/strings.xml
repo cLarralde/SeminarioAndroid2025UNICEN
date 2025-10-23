@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Biblioteca de juegos</string>
+    <string-array name="platform_options">
+        <item>Todas</item>
+        <item>PC</item>
+        <item>PS5</item>
+        <item>PS4</item>
+        <item>Xbox One</item>
+        <item>Xbox Series X</item>
+        <item>Switch</item>
+        <item>iOS</item>
+    </string-array>
+    <string-array name="genre_options">
+        <item>Todos</item>
+        <item>Acción</item>
+        <item>Aventura</item>
+        <item>Deporte</item>
+        <item>Estrategia</item>
+        <item>RPG</item>
+        <item>Simulación</item>
+        <item>Puzzle</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="order_options">
+        <item>Alfabetico</item>
+        <item>Por Fecha de Lanzamiento</item>
+    </string-array>
+    <string name="unknown">Desconocido</string>
+    <string name="genre">Géneros: %1$s</string>
+    <string name="platform">Plataformas: %1$s</string>
+    <string name="released">Lanzamiento: %1$s</string>
+    <string name="description">Descripción:</string>
+    <string name="ordering">Ordenar por:</string>
+    <string name="loadButton">Cargar Juegos</string>
+    <string name="filterButton">Filtros</string>
+    <string name="error">Error</string>
+    <string name="gameName">Nombre del videojuego</string>
+    <string name="imgThumbnail">Portada de juego</string>
+    <string name="home">Regresar</string>
+    <string name="retry">Reintentar</string>
+    <string name="errorInternet">Error de conexión. Verifique el internet</string>
+    <string name="errorServer">Error del servidor. Vuelva a intentarlo</string>
+</resources>

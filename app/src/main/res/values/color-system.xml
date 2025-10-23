@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">@color/reddishOrange</color>
+    <color name="onPrimary">@color/peachPink</color>
+    <color name="primaryVariant">@color/burdeos</color>
+
+    <color name="secondary">@color/darkYellow</color>
+    <color name="onSecondary">@color/paleYellow</color>
+    <color name="secondaryVariant">@color/darkChocolate</color>
+
+    <color name="background">@color/yellowWhite</color>
+    <color name="OnBackground">@color/black</color>
+
+    <color name="surface">@color/lightBrown</color>
+    <color name="OnSurface">@color/white</color>
+
+    <color name="error">@color/wine</color>
+    <color name="OnError">@color/white</color>
+
+
+</resources>
